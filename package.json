@@ -11,12 +11,16 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
-    "expo": "^32.0.0",
+    "expo": "^34.0.1",
+    "expo-asset": "^6.0.0",
     "moment": "^2.24.0",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
-    "react-navigation": "^3.0.9"
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-reanimated": "^1.2.0",
+    "react-navigation": "^4.0.0",
+    "react-navigation-stack": "^1.5.1",
+    "react-navigation-tabs": "^2.4.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
