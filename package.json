@@ -13,7 +13,7 @@
   "dependencies": {
     "expo": "^34.0.1",
     "expo-asset": "^6.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
     "react-native-gesture-handler": "^1.4.1",
